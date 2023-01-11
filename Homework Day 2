@@ -1,0 +1,29 @@
+// Write a function that adds two numbers together 
+
+const x = 9
+const y = 13
+console.log('x,9+ y,13') 
+function sumAdd (x, y){
+    const sumAdd = (x + y);
+    return sum;
+}
+console.log( sumAdd(x9, y13 ));
+return sum;
+
+
+
+
+
+// Write a function that returns the square of a number
+
+
+
+
+// Create an object called student and add 3 properties with their values. 
+
+const person = {
+    firstName: "Student"
+    lastName: ""
+
+
+}

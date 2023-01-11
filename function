@@ -1,0 +1,15 @@
+const person = {
+    firstName: "Anttoinette",
+    lastName: "Henry"
+}
+
+function studentName (propFirstName, propLastName) {
+    const firstName = propFirstName;
+    const lastName = propLastName;
+    const fullName = fullName + " " + lastName;
+    return fullName;
+}
+
+console.log ( studentName ("Tony" , "Stark") );
+console.log ( studentName ("St." , "Mary") );
+console.log ( studentName ("Tony" , "Stark") );
